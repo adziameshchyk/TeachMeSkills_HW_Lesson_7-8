@@ -4,6 +4,22 @@ import com.tms.inheritance_encapsulation_polymorphism.mandatory_tasks.task_0.mod
 import com.tms.inheritance_encapsulation_polymorphism.mandatory_tasks.task_0.models.Vector2D;
 import com.tms.inheritance_encapsulation_polymorphism.mandatory_tasks.task_0.models.Vector3D;
 
+/**
+ * Task:
+ *
+ * Create a class that describes a vector in a two-dimensional coordinate system.
+ * Create a class that describes a vector in a 3D coordinate system.
+ * Each class must have:
+ *      -a constructor with parameters in the form of a list of coordinates (for example, x, y, z);
+ *      -method that calculates the length of a vector. The root can be calculated using Math.sqrt();
+ *      -method that calculates the scalar product;
+ *      -vector addition method;
+ *      -vector difference method;
+ *      -a static method that takes an integer N, and returns an array of random vectors of size N.
+ * Provide comparison of vectors using the "equals()" method.
+ * Display information about a vector using the toString method.
+ */
+
 public class Runner {
 
         public static void main(String[] args) {
