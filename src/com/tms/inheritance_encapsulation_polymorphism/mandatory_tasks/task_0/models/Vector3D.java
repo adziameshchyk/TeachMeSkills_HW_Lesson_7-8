@@ -1,4 +1,4 @@
-package com.tms.inheritance_encapsulation_polymorphism.models;
+package com.tms.inheritance_encapsulation_polymorphism.mandatory_tasks.task_0.models;
 
 import java.util.Objects;
 

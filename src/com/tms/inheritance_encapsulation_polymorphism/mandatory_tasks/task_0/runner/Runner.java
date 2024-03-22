@@ -1,8 +1,8 @@
-package com.tms.inheritance_encapsulation_polymorphism.runner;
+package com.tms.inheritance_encapsulation_polymorphism.mandatory_tasks.task_0.runner;
 
-import com.tms.inheritance_encapsulation_polymorphism.models.IVector;
-import com.tms.inheritance_encapsulation_polymorphism.models.Vector2D;
-import com.tms.inheritance_encapsulation_polymorphism.models.Vector3D;
+import com.tms.inheritance_encapsulation_polymorphism.mandatory_tasks.task_0.models.IVector;
+import com.tms.inheritance_encapsulation_polymorphism.mandatory_tasks.task_0.models.Vector2D;
+import com.tms.inheritance_encapsulation_polymorphism.mandatory_tasks.task_0.models.Vector3D;
 
 public class Runner {
 
